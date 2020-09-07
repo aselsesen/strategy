@@ -1,4 +1,4 @@
-package headfirst.strategy;
+package strategy;
 
 public class FakeQuack implements QuackBehavior {
 	public void quack() {
